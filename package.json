@@ -1,0 +1,32 @@
+{
+  "name": "find_the_full_tag_task",
+  "version": "1.0.0",
+  "description": "Javascript.info task \"Find the Full Tag\" Solution",
+  "main": "scripts/script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DragonOsman/find-the-full-tag-task.git"
+  },
+  "keywords": [
+    "javascript.info-task-solution",
+    "find-the-full-tag-task",
+    "task-solution",
+    "regex",
+    "alternation",
+    "javascript.info"
+  ],
+  "author": "Osman Zakir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DragonOsman/find-the-full-tag-task/issues"
+  },
+  "homepage": "https://github.com/DragonOsman/find-the-full-tag-task#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.20.0",
+    "eslint-plugin-node": "^11.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
